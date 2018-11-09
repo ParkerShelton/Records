@@ -1,0 +1,28 @@
+.RecordList {
+  width: 45%;
+  height: 550px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  background-color: #009F94; }
+  .RecordList h2 {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 300%;
+    color: #F5E6D9; }
+  .RecordList ul {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    max-height: 400px;
+    overflow: scroll;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 65px;
+    border: 3px solid #354752; }
+
+@media (max-width: 800px) {
+  .RecordList {
+    width: 90%;
+    margin: auto; } }

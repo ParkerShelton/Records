@@ -1,0 +1,14 @@
+@import '../../Globals.scss';
+
+.Header {
+  min-height: 70px;
+  padding: 20px;
+  background-color: $lightGreen;
+
+  h1 {
+    margin-left: 80px;
+    font-size: 400%;
+    font-weight: bold;
+    color: $offWhite;
+  }
+}

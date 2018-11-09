@@ -1,0 +1,9 @@
+.Header {
+  min-height: 70px;
+  padding: 20px;
+  background-color: #009F94; }
+  .Header h1 {
+    margin-left: 80px;
+    font-size: 400%;
+    font-weight: bold;
+    color: #F5E6D9; }

@@ -1,0 +1,106 @@
+.AddRecord {
+  width: 45%;
+  height: 550px;
+  margin-top: 100px;
+  background-color: #009F94; }
+  .AddRecord h2 {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 300%;
+    color: #F5E6D9; }
+  .AddRecord form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%; }
+    .AddRecord form .bandName {
+      display: flex;
+      justify-content: space-between;
+      width: 60%;
+      height: 30px;
+      margin: auto;
+      margin-top: 50px; }
+      .AddRecord form .bandName label {
+        align-self: center;
+        font-size: 150%;
+        color: #F5E6D9; }
+      .AddRecord form .bandName input {
+        width: 55%;
+        font-size: 100%;
+        border-radius: 5px; }
+    .AddRecord form .albumName {
+      display: flex;
+      justify-content: space-between;
+      width: 60%;
+      height: 30px;
+      margin: auto;
+      margin-top: 35px; }
+      .AddRecord form .albumName label {
+        align-self: center;
+        font-size: 150%;
+        color: #F5E6D9; }
+      .AddRecord form .albumName input {
+        width: 50%;
+        font-size: 100%;
+        border-radius: 5px; }
+    .AddRecord form .recCondition {
+      display: flex;
+      justify-content: space-between;
+      width: 60%;
+      height: 30px;
+      margin: auto;
+      margin-top: 35px; }
+      .AddRecord form .recCondition label {
+        align-self: center;
+        font-size: 150%;
+        color: #F5E6D9; }
+      .AddRecord form .recCondition select {
+        width: 40%;
+        height: 100%;
+        font-size: 100%; }
+    .AddRecord form .covCondition {
+      display: flex;
+      justify-content: space-between;
+      width: 60%;
+      height: 30px;
+      margin: auto;
+      margin-top: 35px; }
+      .AddRecord form .covCondition label {
+        align-self: center;
+        font-size: 150%;
+        color: #F5E6D9; }
+      .AddRecord form .covCondition select {
+        width: 40%;
+        height: 100%;
+        font-size: 100%; }
+    .AddRecord form .hasPlastic {
+      display: flex;
+      justify-content: space-around;
+      width: 90%;
+      margin: auto;
+      margin-top: 50px; }
+      .AddRecord form .hasPlastic p {
+        font-size: 180%;
+        color: #F5E6D9; }
+      .AddRecord form .hasPlastic .plasticCheck {
+        display: flex; }
+        .AddRecord form .hasPlastic .plasticCheck label {
+          align-self: center;
+          font-size: 120%;
+          color: #F5E6D9; }
+        .AddRecord form .hasPlastic .plasticCheck input {
+          align-self: center;
+          font-size: 120%; }
+    .AddRecord form button {
+      width: 30%;
+      height: 30px;
+      margin: auto;
+      margin-top: 50px;
+      border-radius: 5px; }
+
+@media (max-width: 800px) {
+  .AddRecord {
+    width: 90%;
+    margin: auto; } }

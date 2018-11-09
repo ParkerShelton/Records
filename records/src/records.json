@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "album": "album 1",
+    "band": "band 1",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": false
+  },
+  {
+    "id": 1,
+    "album": "album 2",
+    "band": "band 2",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": false
+  },
+  {
+    "id": 2,
+    "album": "album 3",
+    "band": "band 3",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": true
+  },
+  {
+    "id": 3,
+    "album": "album 4",
+    "band": "band 4",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": false
+  },
+  {
+    "id": 4,
+    "album": "album 5",
+    "band": "band 5",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": false
+  },
+  {
+    "id": 5,
+    "album": "album 6",
+    "band": "band 6",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": false
+  },
+  {
+    "id": 6,
+    "album": "album 7",
+    "band": "band 7",
+    "recordCondition": "mint",
+    "coverCondition": "perfect",
+    "hasPlastic": false
+  }
+]
